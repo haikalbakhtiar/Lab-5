@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297860151403",
+    "project_id": "lab5auth-fd2bf",
+    "storage_bucket": "lab5auth-fd2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297860151403:android:d07e962803ad2db64e192e",
+        "android_client_info": {
+          "package_name": "com.example.Lab5Auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297860151403-0c42em2ke9dqv320b15hs5kdt8901jht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVdRkawhn6k_SrZ5ca6z4uFNUDBcxlpJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297860151403-0c42em2ke9dqv320b15hs5kdt8901jht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
